@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestSettings id="7578b2d3-b6f8-495c-bc4f-40398872b51f" name="ProductOrderTest" enableDefaultDataCollectors="false" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
-  <Description><!--_locID_text="Description1"-->這些是本機測試回合的預設測試設定。</Description>
-  <Deployment enabled="false"/>
-</TestSettings>
